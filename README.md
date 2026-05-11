@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
 </p>
 
-## Projects
+## Things i made
  //FpyDPI - simple DPI bypass tool for youtube
+ 
  //MiniKDEwidgets - minimalistic widgets for KDE
 ## Where can i contact you?
 
