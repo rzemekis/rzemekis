@@ -1,3 +1,21 @@
-## Hi there! I live in Moscow, but wanna move to Finland.
-## My stack: C#, Python, HTML, CSS
-## Favorite movie: Back to the future 1/2/3 
+# Hi there, I'm RobertZemekis! :)
+
+💻 CachyOS(KDE) - as you can see, its my favorite distro
+🖥️ CachyOS(KDE) - fuck windows
+
+## My stack
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+</p>
+
+## Projects
+ //FpyDPI - simple DPI bypass tool for youtube
+ //MiniKDEwidgets - minimalistic widgets for KDE
+## Where can i contact you?
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/RobertZemekis)
+📧 Email:
