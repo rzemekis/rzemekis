@@ -1,7 +1,7 @@
 # Hi there, I'm RobertZemekis! :)
 
 💻 CachyOS(KDE) - as you can see, its my favorite distro
-🖥️ CachyOS(KDE) - fuck windows
+🖥️ CachyOS(KDE) - dont ask me why not hypr
 
 ## My stack
 <p>
@@ -16,7 +16,9 @@
  //FpyDPI - simple DPI bypass tool for youtube
  
  //MiniKDEwidgets - minimalistic widgets for KDE
+
+ //Scrapers - some scrapers for different sites
 ## Where can i contact you?
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/RobertZemekis)
-📧 Email:
+📧 Email: robertkhairullin13@gmail.com          p.s i dont really read gmail, may answer in 1 week
