@@ -1,7 +1,8 @@
 # Hi there, I'm RobertZemekis! :)
 
-💻 CachyOS(KDE) - as you can see, its my favorite distro
-🖥️ CachyOS(KDE) - dont ask me why not hypr
+💻 CachyOS(KDE) - my favorite distro
+
+🖥️ CachyOS(KDE) -  :)
 
 ## My stack
 <p>
