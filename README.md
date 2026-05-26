@@ -14,11 +14,13 @@
 </p>
 
 ## Things i made
- //FpyDPI - simple DPI bypass tool for youtube
+ //FpyDPI -- simple DPI bypass tool for youtube
  
- //MiniKDEwidgets - minimalistic widgets for KDE
+ //MiniKDEwidgets -- minimalistic widgets for KDE
 
- //Scrapers - some scrapers for different sites
+ //Scrapers -- some scrapers for different sites
+
+ //GNOME-custom -- GNOME preset to custom it like macOS
 ## Where can i contact you?
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/RobertZemekis)
