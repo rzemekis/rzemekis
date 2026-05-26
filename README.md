@@ -15,7 +15,7 @@
 ## Things i made
 [FpyDPI](https://github.com/rzemekis/FpyDPI) -- simple DPI bypass tool for youtube
  
-[MiniKDEwidgets](https://github.com/rzemekis/MiniKDEwidgets)-- minimalistic widgets for KDE
+[MiniKDEwidgets](https://github.com/rzemekis/MiniKDEwidgets) -- minimalistic widgets for KDE
 
 [Scrapers](https://github.com/rzemekis/scrapers) -- some scrapers for different sites
 
