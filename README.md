@@ -2,7 +2,7 @@
 
 💻 CachyOS(KDE) - my favorite distro
 
-🖥️ CachyOS(KDE) -  :)
+🖥️ CachyOS(GNOME) -  :)
 
 ## My stack
 <p>
